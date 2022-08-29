@@ -1,0 +1,4 @@
+The modules required for the project:
+1. opencv-contrib-python
+2. Mediapipe
+3. Pyautogui
